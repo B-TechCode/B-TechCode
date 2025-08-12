@@ -3,7 +3,7 @@
      alt="Binary Background" width="100%" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Prasad</h1>
-<h3 align="center">A passionate developer</h3></br>
+<h3 align="center">A passionate MERN Stack developer From ♾️</h3></br>
 
 - 🌱 I’m currently learning **Advance Java**
 
@@ -72,5 +72,3 @@
 </p>
 
 [![Prasad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=B-TechCode&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
