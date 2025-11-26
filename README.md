@@ -55,15 +55,16 @@
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <table cellpadding="0">
-  <tr style="padding: 0">
+  <tr style="padding: 0">  
     <td valign="top">
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=B-TechCode&show_icons=true&theme=radical" />
     </td>
     <td valign="top">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-TechCode&layout=compact&theme=radical" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-TechCode&layout=compact&theme=radical&custom_title=Languages" />
     </td>
   </tr>
 </table>
+
 
 
 <p align="center">
