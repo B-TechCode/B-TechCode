@@ -56,12 +56,15 @@
 
 <table cellpadding="0">
   <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=B-TechCode&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-TechCode&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=B-TechCode&show_icons=true&theme=radical" />
+    </td>
+    <td valign="top">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-TechCode&layout=compact&theme=radical" />
+    </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=B-TechCode&&theme=dark&show_icons=true" />
