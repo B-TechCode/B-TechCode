@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Java**
 
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, NodeJS, Express**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, NodeJS, JSP, Servlet, SpringMVC, SpringCore, SpringFramework, SpringBoot**
 
 - 📫 How to reach me **aakashchaurasiya629@gmail.com**
 
