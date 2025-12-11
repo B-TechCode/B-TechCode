@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">A passionate MERN Stack developer From ♾️</h3></br>
 
-- 🌱 I’m currently learning **Advance Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, NodeJS, JSP, Servlet, SpringMVC, SpringCore, SpringFramework, SpringBoot**
 
