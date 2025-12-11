@@ -3,7 +3,7 @@
      alt="Binary Background" width="100%" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Prasad</h1>
-<h3 align="center">A passionate MERN Stack developer From ♾️</h3></br>
+<h3 align="center">A passionate Full Stack developer From ♾️</h3></br>
 
 - 🌱 I’m currently learning **Kotlin**
 
