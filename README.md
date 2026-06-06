@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, NodeJS, JSP, Servlet, SpringMVC, SpringCore, SpringFramework, SpringBoot**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, JSP, Servlet, SpringMVC, SpringCore, SpringFramework, SpringBoot, MicroService**
 
 - 📫 How to reach me **aakashchaurasiya629@gmail.com**
 
